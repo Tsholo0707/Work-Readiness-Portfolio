@@ -1,7 +1,15 @@
 # CV Submission
 
+---
+
 ##  📄 Evidence
-I completed the CV Submission. I will provide my CV as evidence in pdf and my submission.
+I completed the CV Submission. Below is my CV as evidence in pdf and my submission.
+
+[CV Document](evidence/document/Tsholofelo%20Mabidikane.pdf)
+
+<img src="evidence/images/CV-submission.PNG" alt="Scrrenshot of Submission" width="400">
+
+---
 
 ## 🧠 Reflection (Using STAR)
 
