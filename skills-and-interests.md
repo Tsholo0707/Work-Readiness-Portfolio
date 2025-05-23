@@ -1,7 +1,13 @@
-# Skiils and Interests
+# Skills and Interests
 
 ## 📄 Evidence
 I completed the Skills and Interests assessment and completed the quiz after. I will be providing screenshots of the content of the assessment and my submission.
+
+<img src="evidence/images/company-skills.PNG" alt="Scrrenshot of Company Skills" width="400">
+<img src="evidence/images/core-values.PNG" alt="Screenshot of Core Values" width="400">
+<img src="evidence/images/skills-submission.PNG" alt="Screenshot of Submission" width="400">
+
+---
 
 ## 🧠 Reflection (Using STAR)
 
